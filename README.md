@@ -8,5 +8,3 @@ It has a variable depth and does not support castling due to a limitation of the
 It has 2 dependencies:
 * Pygame
 * Pystockfish (wrapper for stockfish)
-
-(Unfinished)
